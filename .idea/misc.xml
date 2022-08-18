@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1945" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/drawable/background.xml" value="0.146" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/drawable/button.xml" value="0.1" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/drawable/container_components.xml" value="0.1365" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/drawable/edit_text.xml" value="0.165" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/drawable/edit_text_invent.xml" value="0.1125" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/drawable/ic_baseline_delete.xml" value="0.12" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/drawable/ic_eye.xml" value="0.124" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1945" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.153" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/drawable/ic_list.xml" value="0.1735" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/drawable/ic_localizar.xml" value="0.1985" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/drawable/ic_user.xml" value="0.1" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/drawable/ic_user_02.xml" value="0.1455" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/drawable/listview_pesquisa.xml" value="0.137" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/layout/activity_main_activitylogin.xml" value="0.22" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/layout/activity_main_activityteste.xml" value="0.20416666666666666" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/layout/activity_main_login.xml" value="0.20102564102564102" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/layout/activity_main_pesquisar.xml" value="0.25" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/layout/activity_movimentos.xml" value="0.20416666666666666" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/layout/content_main_activityteste.xml" value="0.20416666666666666" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/layout/listview_check.xml" value="0.20416666666666666" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/layout/listview_pesquisa.xml" value="0.20416666666666666" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/layout/listview_text_black.xml" value="0.20416666666666666" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/layout/login.xml" value="0.20416666666666666" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/layout/movimentos.xml" value="0.20416666666666666" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1695" />
+        <entry key="..\:/aplicativos/AndroidApp/Inventario/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/java_sdk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.20416666666666666" />
+        <entry key="..\:/java_sdk/platforms/android-32/data/res/layout/simple_list_item_multiple_choice.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
