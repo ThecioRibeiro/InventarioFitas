@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 ExibirMensagem(v ,e.getMessage(), Color.WHITE, Color.RED);
                 this.mViewHolder.progressBar.setVisibility(View.INVISIBLE);
             }
-
+//teste
             }else if(v.getId() == R.id.buttonMais){
                 this.mViewHolder.editTextQtde.setText(String.valueOf(++i));
             }else if(v.getId() == R.id.buttonMenos){
